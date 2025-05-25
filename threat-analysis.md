@@ -32,6 +32,6 @@ We created a full diagram with components and the correct data flows, mostly HTT
 
 ## Summary
 
-This threat modeling process helped me a lot to see the security side of system design. I found threats I didn’t think about before, like repudiation, which I wasn’t very familiar with before this assignment. Each threat made sense when I looked at how the system components interact, and the STRIDE model gave a clear way to categorize them. I think now the system is more secure because we added mitigation ideas for all identified threats.
+This threat modeling stuff really helped me understand the security side of designing systems better. I found a bunch of threats I didnt even think about before - like repudiation which I honestly had no idea what that was until this assignment. Once I started looking at how all the different parts of the system talk to each other the threats started making more sense. The STRIDE model was actually pretty useful for organizing everything instead of just randomly thinking about what could go wrong.
 
-Overall, this step helped improve the design and made me more aware about secure software practices.
+I think the system is way more secure now that we added all those mitigations for the threats we found. Its kind of crazy how many ways hackers could attack a banking system if you dont plan for it. This assignment definitely made me realize how important it is to think about security from the beginning not just add it at the end.
